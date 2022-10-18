@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.maindiv{
+    border-radius: 60px 60px 60px 60px;
+}
+.section4{
+    background-color: #a661d8;
+}
+.section20 {
+    height: 130vh;
+}
+.div10{
+    height: 80vh;
+}
+.section50{
+    background-color: #a661d8;   
+}
